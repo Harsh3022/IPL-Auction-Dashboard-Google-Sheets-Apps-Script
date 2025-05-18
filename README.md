@@ -2,7 +2,7 @@
 
 This project is a dynamic IPL Auction Dashboard built using Google Sheets and Google Apps Script. It is designed to manage and visualize live IPL auction data efficiently with interactive features and automated controls. The tool is ideal for small team-based auctions, fantasy leagues, or mock IPL events.
 
-🚀 Features
+🚀 Features:
 
 ✅ Google Apps Script Automation:
 Bidding Buttons: Custom buttons for each team to place a bid on a player.
